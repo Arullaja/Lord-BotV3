@@ -10,4 +10,6 @@ handler.tags = ['hentai']
 
 handler.command = /^(uniform)$/i
 
+handler.premium = true
+
 module.exports = handler
