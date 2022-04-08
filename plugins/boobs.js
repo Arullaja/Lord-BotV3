@@ -11,7 +11,7 @@ handler.tags = ['hentai']
 handler.command = /^(boobs|oppai|milf)$/i
 handler.owner = false
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
