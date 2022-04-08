@@ -269,7 +269,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
 │ ▸ *Author :* Nurutomo
-┴ ▸ *Owner :* AmmarBN
+┴ ▸ *Owner :* Arull
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Tolong jangan dispam ya biar ga delay
