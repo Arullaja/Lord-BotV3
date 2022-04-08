@@ -20,5 +20,6 @@ handler.tags = ["hentai"];
 handler.command = /^(nsfwwaifu|waifunsfw)$/i;
 
 handler.limit = true;
+handler.premium = true
 
 module.exports = handler;
