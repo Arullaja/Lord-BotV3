@@ -11,7 +11,7 @@ const ftrol = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: 'Script Lord botz 🗃️', 
+    message: 'Script Rull-botz 🗃️', 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch(fla + 'Script')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
