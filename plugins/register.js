@@ -16,11 +16,11 @@ let handler = async function (m, { text, usedPrefix, command }) {
                             {
                                 "rows": [{
                                          "title": `LIST MENU`,
-                                         "description": "List Menu Kanna BOT",
+                                         "description": "List Menu Rull BOT",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `MY OWNER`,
-                                         "description": "List Owner Kanna BOT", 
+                                         "description": "List Owner Rull BOT", 
                                          "rowId": ".nowner"
                                     }, {
                                          "title": `UNREGISTER`,
